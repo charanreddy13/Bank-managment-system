@@ -30,8 +30,7 @@ Watch the project demo video [here](https://youtu.be/xqwzihyeUI8).
 2. Open the project in your preferred IDE.
 3. Run the application and follow the instructions provided in the documentation or demo video.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
 
 ## Acknowledgements
 We would like to express our gratitude to our instructor and classmates for their support and feedback during the development of this project.
